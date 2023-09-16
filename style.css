@@ -1,0 +1,49 @@
+.formulario-bootstrap{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(188, 188, 188);
+    padding: 50px;
+    margin-top: 40px;
+}
+.email-class{
+    margin-top: 30px;
+}
+.ajustando-text-area{
+    margin-top: 30px;
+}
+.butao-sucesses{
+    margin-top: 40px;
+    height: 50px;
+}
+.form-control{
+   height: 50px;
+}
+#fundo{
+    background-color: gray;
+    width: 350px;
+    height: 200px;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+
+}
+#pa{
+    font-size: 1.2 large;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.input{
+    width: 300px;
+    height: 30px;
+}
+#enviar{
+    width: 150px;
+    background-color: aqua;
+}
