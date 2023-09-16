@@ -2,7 +2,7 @@
 # Use uma imagem base com Nginx
 FROM nginx:alpine
 
- Cop#ie os arquivos estáticos para o diretório de conteúdo do Nginx
+# Copie os arquivos estáticos para o diretório de conteúdo do Nginx
 COPY index.html /usr/share/nginx/html/
 COPY login.html /usr/share/nginx/html/
 COPY bs.js /usr/share/nginx/html/
